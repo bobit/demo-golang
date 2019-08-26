@@ -1,6 +1,8 @@
 ### golang ###
 bin/
 pkg/
+golang.wiki/
+
 
 HELP.md
 target/
